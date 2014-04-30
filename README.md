@@ -1,6 +1,9 @@
 WEB-IguassuPass
 ===============
 
+LEIAM:
+https://devcenter.heroku.com/articles/quickstart
+
 Este repositório é referente à implementação da versão web do projeto Iguassu Pass.
 
 Essa aplicação WEB deve implementar os seguintes módulos:
